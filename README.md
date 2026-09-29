@@ -1,4 +1,16 @@
-## Hi there 👋
+## Mein Profil
+
+Ich möchte keine Informationen über mich öffentlich bekannt geben.
+
+Aktuelle Lernthemen
+- DevOps im Modul CDS212
+
+Technologien
+- Python
+- Java
+
+Kontaktmöglichkeiten
+- Keine
 
 <!--
 **Ilaj12Luechinger/Ilaj12Luechinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

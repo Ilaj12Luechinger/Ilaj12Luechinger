@@ -2,14 +2,17 @@
 
 Ich möchte keine Informationen über mich öffentlich bekannt geben.
 
-Aktuelle Lernthemen
+
+**Aktuelle Lernthemen**
 - DevOps im Modul CDS212
 
-Technologien
+
+**Technologien**
 - Python
 - Java
 
-Kontaktmöglichkeiten
+
+**Kontaktmöglichkeiten**
 - Keine
 
 <!--
